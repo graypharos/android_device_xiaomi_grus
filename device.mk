@@ -63,6 +63,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.target.rc
 
+# FOD
+EXTRA_FOD_ANIMATIONS := true
+
 # Fingerprint
 TARGET_HAS_FOD := true
 
