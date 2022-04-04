@@ -204,7 +204,7 @@
     <bool name="config_zramWriteback">true</bool>
 
      <!-- Whether the device supports Smart Pixels -->
-    <bool name="config_supportSmartPixels">fasle</bool>
+    <bool name="config_supportSmartPixels">false</bool>
 
     <!-- If true, the display will be shifted around in ambient mode. -->
     <bool name="config_enableBurnInProtection">true</bool>
